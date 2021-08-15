@@ -8,7 +8,7 @@ class TestCalc {
 
 	@Test
 	void test() {
-		assert Calc.add(1,3)==4;
+		assert Calc.add(1,3)==5;
 		assert Calc.subtract(4,1)==3;
 	}
 
